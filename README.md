@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1DF74D&vCenter=true&width=435&lines=Desenvolvedor+JavaScript+Backend;Apaixonado+por+Tecnologia;Futuro+Engenheiro+de+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=1E90FF&center=true&vCenter=true&width=500&height=30&lines=Desenvolvedor+JavaScript+Backend;Apaixonado+por+Tecnologia;Futuro+Engenheiro+de+Software" />
 </p>
 
 ---
