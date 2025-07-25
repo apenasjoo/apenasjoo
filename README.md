@@ -1,5 +1,5 @@
 <!-- Banner animado com sua paleta -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3E5F44,5E936C&height=180&section=header&text=Olá%20👋,%20sou%20João&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=93DA97&height=180&section=header&text=Olá%20👋,%20sou%20João&fontSize=35&fontColor=3E5F44&animation=fadeIn" alt="banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=3E5F44&center=true&vCenter=true&width=500&height=30&lines=Desenvolvedor+JavaScript+Backend;Apaixonado+por+Tecnologia;Futuro+Engenheiro+de+Software" />
