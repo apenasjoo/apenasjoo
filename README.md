@@ -1,8 +1,9 @@
 <!-- Banner animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=Olá%20👋,%20sou%20João&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=180&section=header&text=Olá%20👋,%20sou%20João&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=1E90FF&center=true&vCenter=true&width=500&height=30&lines=Desenvolvedor+JavaScript+Backend;Apaixonado+por+Tecnologia;Futuro+Engenheiro+de+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=1DF74D&vCenter=true&width=435&lines=Desenvolvedor+JavaScript+Backend;Apaixonado+por+Tecnologia;Futuro+Engenheiro+de+Software" />
 </p>
 
 ---
