@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="background-color:white; padding:4px; border-radius:6px"/>
+  <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="40" style="background-color:white; padding:4px; border-radius:6px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
@@ -58,4 +58,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93DA97,93DA97&height=120&section=footer"/>
+<!-- Banner do rodapé com nova cor -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=98C74E&height=120&section=footer"/>
+
