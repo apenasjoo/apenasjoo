@@ -19,14 +19,29 @@
 ### 🛠️ Tecnologias & Stacks
 
 <p align="center">
+  <!-- Linguagens e Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  
+  <!-- Express (com fundo branco e borda arredondada) -->
   <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="40" style="background-color:white; padding:4px; border-radius:6px"/>
+  
+  <!-- Front-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  
+  <!-- Banco de dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" height="40"/>
+  
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  
+  <!-- Ferramentas -->
   <img src="https://img.shields.io/badge/ThunderClient-5E936C?style=for-the-badge&logo=thunderclient&logoColor=white" height="28"/>
 </p>
+
 
 ---
 
