@@ -9,10 +9,12 @@
 
 ### 👨‍💻 Sobre mim
 
-- 💻 Estudante de programação apaixonado por resolver problemas  
-- 🚀 Foco em **Back-End com Node.js**, mas também exploro Front-End com **React**  
-- 🎯 Objetivo: trabalhar remotamente para empresas globais e desenvolver soluções de impacto  
-- 🌍 Localização: Brasil  
+- 💻 Estudante de programação apaixonado por resolver problemas e criar soluções eficientes  
+- 🚀 Foco principal em **Back-End (Node.js, Express, SQL, MongoDB, MySQL, Docker)**, mas em constante evolução para atuar também no **Front-End (React, HTML, CSS, JavaScript)**  
+- 🌐 Interesse em me tornar **Full Stack Developer**, explorando diferentes linguagens e tecnologias para entregar projetos completos e de qualidade  
+- 🎯 Objetivo: trabalhar remotamente/Hibrido para empresas globais e contribuir com soluções de impacto  
+- 🌍 Localização: Brasil
+
 
 ---
 
@@ -60,6 +62,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
 | [🔗 API CADASTRO DE USUARIO ](https://github.com/apenasjoo/api-cadastro/tree/Versao-01) | Backend com Node.js + MongoDB que encurta URLs e fornece analytics. | Node.js, Express, MongoDB |
+| [📝 To-Do List Full Stack](https://github.com/apenasjoo/ToDoList/tree/main) | Aplicação Full Stack para gerenciamento de tarefas, utilizando Docker para ambiente isolado, banco de dados relacional e interface web simples. | Node.js, Express.js, MySQL, Docker, HTML, CSS |
 
 
 ---
