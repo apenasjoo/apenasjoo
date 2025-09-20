@@ -1,81 +1,42 @@
-<!-- Banner animado com sua paleta -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93DA97&height=180&section=header&text=Olá%20👋,%20sou%20João&fontSize=35&fontColor=F9F7F7&animation=fadeIn&fontAlign=40&fontAlignY=35&font=Verdana" />
+# João Victor
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=3E5F44&center=true&vCenter=true&width=500&height=30&lines=Desenvolvedor+JavaScript+Backend;Apaixonado+por+Tecnologia;Futuro+Engenheiro+de+Software" />
-</p>
+ Estudante de Desenvolvimento de Software| Futuro Engenheiro de Software 
+📍 Rio de Janeiro – RJ  
 
----
-
-### 👨‍💻 Sobre mim
-
-- 💻 Estudante de programação apaixonado por resolver problemas e criar soluções eficientes  
-- 🚀 Foco principal em **Back-End (Node.js, Express, SQL, MongoDB, MySQL, Docker)**, mas em constante evolução para atuar também no **Front-End (React, HTML, CSS, JavaScript)**  
-- 🌐 Interesse em me tornar **Full Stack Developer**, explorando diferentes linguagens e tecnologias para entregar projetos completos e de qualidade  
-- 🎯 Objetivo: trabalhar remotamente/Hibrido para empresas globais e contribuir com soluções de impacto  
-- 🌍 Localização: Brasil
-
+Profissional com mais de 8 anos de experiência no setor administrativo, em transição para tecnologia, com foco em desenvolvimento back-end e conhecimento em front-end para integrações eficientes entre sistemas.
+Como Coordenador de Sistema ERP, implementei automação no cadastro de produtos, reduzindo erros em mais de 40%, além de gerenciar e suportar o sistema, solucionando problemas complexos.
+Sou movido por desafios e apaixonado por criar soluções robustas e escaláveis, utilizando JavaScript, Node.js e Express, sempre alinhado a boas práticas.
+Atualmente curso Tecnólogo em Análise e Desenvolvimento de Sistemas (FAM) e busco estágio para aplicar meus conhecimentos em lógica, estruturas de dados e algoritmos, contribuindo para projetos de impacto.
 
 ---
 
-### 🛠️ Tecnologias & Stacks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/apenasjoo/)) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joovithorlol@hotmail.com.br)
 
-<p align="center">
-  <!-- Linguagens e Back-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  
-  <!-- Express (com fundo branco e borda arredondada) -->
-  <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" height="40" style="background-color:white; padding:4px; border-radius:6px"/>
-  
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  
-  <!-- Banco de dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" height="40"/>
-  
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  
-  <!-- Ferramentas -->
-  <img src="https://img.shields.io/badge/ThunderClient-5E936C?style=for-the-badge&logo=thunderclient&logoColor=white" height="28"/>
-</p>
+## Stack Técnica  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🌐 Redes & Contatos
+## Projetos Relevantes  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/apenasjoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-5E936C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/apenasjoo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-3E5F44?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="joovithorlol@hotmail.com.br"><img src="https://img.shields.io/badge/-Email-93DA97?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### [To Do List](https://github.com/apenasjoo/ToDoList)
+— Sistema web de To-Do List que interage com uma API RESTful para realizar operações CRUD (Criar, Ler, Atualizar e Deletar). A API foi construída com Node.js e Express.js, seguindo uma estrutura modular com separação de rotas e controllers para garantir escalabilidade e fácil manutenção. O desenvolvimento foi validado com testes em Postman e Insomnia.
 
----
-
-### 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| [🔗 API CADASTRO DE USUARIO ](https://github.com/apenasjoo/api-cadastro/tree/Versao-01) | Backend com Node.js + MongoDB que encurta URLs e fornece analytics. | Node.js, Express, MongoDB |
-| [📝 To-Do List Full Stack](https://github.com/apenasjoo/ToDoList/tree/main) | Aplicação Full Stack para gerenciamento de tarefas, utilizando Docker para ambiente isolado, banco de dados relacional e interface web simples. | Node.js, Express.js, MySQL, Docker, HTML, CSS |
-
+### [API RESTful para Cadastro de Usuários](https://github.com/apenasjoo/api-cadastro/tree/Versao-01)  
+— API construída em Node.js e Express.js, focada no gerenciamento de usuários. Permite realizar operações de cadastro, consulta, atualização e exclusão de forma simples e eficiente, seguindo boas práticas de design REST e organização modular do código.  
 
 ---
 
-### 📊 GitHub Stats
+## Formação & Cursos  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apenasjoo&show_icons=true&theme=graywhite&icon_color=3E5F44&title_color=3E5F44&text_color=3E5F44&bg_color=E8FFD7" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apenasjoo&theme=github-light&stroke=3E5F44&ring=5E936C&fire=93DA97&currStreakLabel=3E5F44" width="48%" />
-</p>
-
----
-
-<!-- Banner do rodapé com nova cor -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=98C74E&height=120&section=footer"/>
-
+ **Tecnólogo em Análise e Desenvolvimento de Sistemas** – FAM (2024 – 2026)  
+ 
+ **Formação Full-Stack Developer** – Rocketseat (React.js, Node.js, JavaScript, SQL e boas práticas)
+ 
+ **Versionamento com Git e GitHub** – DIO  
+ 
+## Repositorios com Conteudo de Estudos
+[Repositorios com Estudos na Rocketseat](https://github.com/apenasjoo/rocketseat-fullstack-estudo)  
+[Repositorios de exercicios](https://github.com/apenasjoo/estudos)  
+ 
