@@ -1,6 +1,6 @@
 # João Victor
 
- Estudante de Desenvolvimento de Software| Futuro Engenheiro de Software 
+ Estudante de Desenvolvimento de Software | Futuro Engenheiro de Software 
 📍 Rio de Janeiro – RJ  
 
 Profissional com mais de 8 anos de experiência no setor administrativo, em transição para tecnologia, com foco em desenvolvimento back-end e conhecimento em front-end para integrações eficientes entre sistemas.
@@ -39,5 +39,5 @@ Atualmente curso Tecnólogo em Análise e Desenvolvimento de Sistemas (FAM) e bu
 ## Repositorios com Conteudo de Estudos
 [Repositorios com Estudos na Rocketseat](https://github.com/apenasjoo/rocketseat-fullstack-estudo)  
 [Repositorios de exercicios](https://github.com/apenasjoo/estudos)  
-[game de Adivinhação](https://github.com/apenasjoo/game-adivinhacao)
+[game de Adivinhação](https://github.com/apenasjoo/game-adivinhacao)    
 [Calculadora IMC](https://github.com/apenasjoo/imc-calculadora)
