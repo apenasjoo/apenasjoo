@@ -39,4 +39,5 @@ Atualmente curso Tecnólogo em Análise e Desenvolvimento de Sistemas (FAM) e bu
 ## Repositorios com Conteudo de Estudos
 [Repositorios com Estudos na Rocketseat](https://github.com/apenasjoo/rocketseat-fullstack-estudo)  
 [Repositorios de exercicios](https://github.com/apenasjoo/estudos)  
- [game de Adivinhação](https://github.com/apenasjoo/game-adivinhacao)
+[game de Adivinhação](https://github.com/apenasjoo/game-adivinhacao)
+[Calculadora IMC](https://github.com/apenasjoo/imc-calculadora)
